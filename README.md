@@ -1,1 +1,2 @@
-# Logistic-Regression
+# Credit-card Fraud detection
+#### Using Logistic Regression
